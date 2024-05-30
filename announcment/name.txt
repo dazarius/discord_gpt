@@ -1,1 +1,0 @@
-привет меня зовут Дазй я главный персонаж! openai.BadRequestError: Error code: 400 - {'error': {'message': "Unknown parameter: 'messages[0].attachments'.", 'type': 'invalid_request_error', 'param': 'messages[0].attachments', 'code': 'unknown_parameter'}}

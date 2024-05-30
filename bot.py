@@ -42,4 +42,4 @@ bot.add_cog(on_msg(bot, members))
 
 
 
-bot.run("MTIxNjEwMjE4NDc2MDkwNTkxOA.Gs63P4.7J46EpaHv76aUeqDBUeVUuseHwKyP0G5tvXqpA")
+bot.run("token")
