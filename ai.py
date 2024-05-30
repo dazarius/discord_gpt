@@ -16,7 +16,7 @@ class AI:
                 "content": prompt,
             }
         ],
-        model="gpt-3.5-turbo-instruct",
+        model="gpt-3.5-turbo",
     )
         content = chat_completion.choices[0].message.content
         return content
